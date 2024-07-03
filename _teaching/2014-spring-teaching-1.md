@@ -7,7 +7,7 @@ venue: "University of New South Wales, School of Computer Science and Engineerin
 date: 2022
 location: "Sydney, Australia"
 ---
-Tutor of , a course that provides an introduction to core ideas and techniques in machine learning (ML), covering theoretical foundations, algorithms, and practical methodology. Algorithms for supervised and unsupervised learning are covered, including regression, classification, neural networks, tree learning, kernel methods, clustering, dimensionality reduction, ensemble methods, and large-scale ML.
+Tutor of a course that provides an introduction to core ideas and techniques in machine learning (ML), covering theoretical foundations, algorithms, and practical methodology. Algorithms for supervised and unsupervised learning are covered, including regression, classification, neural networks, tree learning, kernel methods, clustering, dimensionality reduction, ensemble methods, and large-scale ML.
 
 Heading 1
 ======
