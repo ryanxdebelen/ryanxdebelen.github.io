@@ -13,8 +13,9 @@ My research interests lie at the intersection of machine learning, computer visi
 
 News
 ======
-- I will be starting a Research Fellowship at Harvard Medical School and General Massachussetts Hospital.
+- I am starting a Research Fellowship at Harvard Medical School and General Massachussetts Hospital.
 - I am starting a Writing Fellowship to publish my PhD results at UNSW Sydney.
+- I am starting a 6-month internship with the International Machine Learning team at Amazon Inc.
 - One paper published at PLOS One.
 - One paper accepted at NeurIPS 2023 workshop.
 - One paper accepted at IEEE EBMC 2023.
@@ -24,6 +25,12 @@ News
 - One poster accepted at SIGGRAPH Asia 2021.
 - One paper accepted at CHI 2021.
 - One paper published at Translational Psychiatry.
+- I received the University International Postgraduate Award to undertake my PhD studies at UNSW Sydney.
 - I completed my MPhil degree at UNSW Sydney!
+- One paper accepted at VRCAI 2019.
+- I received a Silver Award for Student Design Competition at HCII 2019.
+- One paper accepted at HCII 2019.
+- One paper published at AIMS Electronics and Electrical Engineering.
+- I received the University International Postgraduate Award to undertake my MPhil studies at UNSW Sydney.
 
 
