@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of New South Wales"
-date: 2021
+date: 2021-05-01
 location: "Sydney, Australia"
 ---
 Tutor of an introductory course on Artificial Intelligence covering fundamental topics, such as autonomous agents, problem solving, search, logic, knowledge representation, reasoning under uncertainty, natural language processing, machine learning and neural networks.
