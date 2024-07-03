@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of New South Wales, School of Computer Science and Engineering"
-date: 2014-01-01
+date: 2020
 location: "Sydney, Australia"
 ---
 
