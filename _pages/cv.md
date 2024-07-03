@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Engineer, University of New South Wales, 2024
+* MPhil, University of New South Wales, 2020
+* B.S. in Electronics and Communications Engineering, 2015
 
 Work experience
 ======
