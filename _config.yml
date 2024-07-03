@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Anthony de Belen / Site Title"
+title                    : "Ryan Anthony de Belen"
 title_separator          : "-"
 name                     : &name "Ryan Anthony de Belen"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ryan Anthony de Belen"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "I am a PhD student at the UNSW Computer Science and Engineering, where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis."
+  bio              : "PhD candidate"
   location         : "Sydney, Australia"
   employer         : "University of New South Wales"
   uri              : # URL
@@ -34,16 +34,16 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.au/citations?user=DbX9K9QAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  orcid            : "https://orcid.org/0000-0002-4624-2668"
+  semantic         : "https://www.semanticscholar.org/author/Ryan-Anthony-J.-de-Belen/47860605"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ryan-Anthony-De-Belen"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ryanxdebelen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,9 +57,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ryananthonydebelen/"# Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@ryanxdebelen"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
