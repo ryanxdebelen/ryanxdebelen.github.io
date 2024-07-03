@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 I am a PhD student at the [University of New South Wales, Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis.
-I am currently supervised by[Arcot Sowmya](https://research.unsw.edu.au/people/professor-arcot-sowmya), [Gelareh Mohammadi](https://www.gelarehmohammadi.com/Home.html) and [Tomasz Bednarz](https://tomaszbednarz.net/).
+I am currently supervised by [Arcot Sowmya](https://research.unsw.edu.au/people/professor-arcot-sowmya), [Gelareh Mohammadi](https://www.gelarehmohammadi.com/Home.html) and [Tomasz Bednarz](https://tomaszbednarz.net/).
+
+My research interests lie at the intersection of machine learning, computer vision and medical research.
 
 News
 ======
-- I received and accepted an offer for a Research Fellowship at Harvard Medical School and General Massachussetts Hospital.
+- I will be starting a Research Fellowship at Harvard Medical School and General Massachussetts Hospital.
 - I am starting a Writing Fellowship to publish my PhD results at UNSW Sydney.
 - One paper published at PLOS One.
 - One paper accepted at NeurIPS 2023 workshop.
