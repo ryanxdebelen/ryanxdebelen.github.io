@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "COMP9414 Artificial Intelligence"
 collection: teaching
-type: "Workshop"
+type: "Postgraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of New South Wales"
+date: 2021 to 2023
+location: "Sydney, Australia"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutor of an introductory course on Artificial Intelligence covering fundamental topics, such as autonomous agents, problem solving, search, logic, knowledge representation, reasoning under uncertainty, natural language processing, machine learning and neural networks.
 
 Heading 1
 ======
