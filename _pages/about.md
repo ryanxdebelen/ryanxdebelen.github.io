@@ -13,8 +13,8 @@ My research interests lie at the intersection of machine learning, computer visi
 
 News
 ======
-- Starting a Research Fellowship at Harvard Medical School and Massachussetts General Hospital.
-- Starting a Writing Fellowship to publish my PhD results at UNSW Sydney.
+- Starting a fellowship at Harvard Medical School and Massachussetts General Hospital.
+- Starting a fellowship to publish my PhD results at UNSW Sydney.
 - Starting a 6-month internship with the International Machine Learning team at Amazon.
 - One paper published at PLOS One.
 - One paper accepted at NeurIPS 2023 workshop.
