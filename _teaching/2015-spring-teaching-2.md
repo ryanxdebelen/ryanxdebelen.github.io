@@ -3,7 +3,7 @@ title: "COMP9414 Artificial Intelligence"
 collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University of New South Wales"
+venue: "University of New South Wales, School of Computer Science and Engineering"
 date: 2021-05-01
 location: "Sydney, Australia"
 ---
