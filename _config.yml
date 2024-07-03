@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ryan Anthony de Belen"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "I am a PhD student at the <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">University of New South Wales, Computer Science and Engineering</a>, where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis."
+  bio              : "I am a PhD student at the UNSW Computer Science and Engineering, where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis."
   location         : "Sydney, Australia"
   employer         : "University of New South Wales"
   uri              : # URL
