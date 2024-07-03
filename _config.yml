@@ -12,7 +12,7 @@ title                    : "Ryan Anthony de Belen / Site Title"
 title_separator          : "-"
 name                     : &name "Ryan Anthony de Belen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ryanxdebelen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryanxdebelen/ryanxdebelen.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ryan Anthony de Belen"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD student at the <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">University of New South Wales, Computer Science and Engineering</a>, where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis."
   location         : "Sydney, Australia"
   employer         : "University of New South Wales"
   uri              : # URL
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "ryanxdebelen" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
