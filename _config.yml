@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Anthony de Belen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ryan Anthony de Belen"
 description              : &description "personal description"
