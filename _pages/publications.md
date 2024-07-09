@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+ <br/>
+
 (Selected) Papers
 ======
 - Using visual attention estimation on videos for automated prediction of autism spectrum disorder and symptom severity in preschool children. <br/>
