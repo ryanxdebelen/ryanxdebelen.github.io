@@ -6,10 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the [University of New South Wales, Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis.
-I am currently supervised by [Arcot Sowmya](https://research.unsw.edu.au/people/professor-arcot-sowmya), [Gelareh Mohammadi](https://www.gelarehmohammadi.com/Home.html) and [Tomasz Bednarz](https://tomaszbednarz.net/).
 
-My research interests lie at the intersection of machine learning, computer vision and medical research.
+<!--- I am a PhD student at the [University of New South Wales, Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), where I develop computational models for human visual attention and gaze communication behaviour analysis, ultimately applying them for autism diagnosis.
+I am currently supervised by [Arcot Sowmya](https://research.unsw.edu.au/people/professor-arcot-sowmya), [Gelareh Mohammadi](https://www.gelarehmohammadi.com/Home.html) and [Tomasz Bednarz](https://tomaszbednarz.net/). --->
+
+<p align='justify'>
+I am a machine learning and computer vision research scientist with extensive practical and research experience in university laboratories, startups and the industry. Recently, I have been developing computational models that utilize multimodal information to quantify human behaviours and translate these models to practical applications. I frequently employ machine learning, deep learning and computer vision techniques to solve novel problems. In addition, I develop user interfaces that allow users to interact and understand complex datasets and model predictions. I have worked on diverse datasets, including images, videos, speech, eye-tracking data, text and tabular data. </p>
+
+Notable projects and experience include:
+- Computer Vision: object detection and tracking, visual attention (saliency, scanpath) modelling, behaviour recognition, text-to-image generation, scene understanding
+- Machine Learning: classification, clustering, data imputation, anomaly detection, representation learning, supervised, unsupervised and self-supervised ML
+- Medical Research: autism diagnosis, symptom severity prediction, biomarker discovery, statistical analysis, structural heart disease prediction, clinical document analysis
+
+
 
 News
 ======
