@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <p align='justify'>I work at the intersection of machine learning, computer vision and medical research. I strive to develop technical innovations and produce clinical contributions. As a result, my research is published in machine learning and computer vision conferences, as well as medical journals. You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</p>
 {% endif %}
 
  <br/>
