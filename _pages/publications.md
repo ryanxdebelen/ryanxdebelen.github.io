@@ -19,8 +19,8 @@ author_profile: true
 - Temporal Understanding of Gaze Communication with GazeTransformer. <br/>
   **de Belen, R. A.**, Mohammadi, G., & Sowmya, A. <br/>
   In NeuRIPS 2023 Workshop on Gaze Meets ML. <br/>
-- Evaluating a human detection model in a behaviour analysis pipeline for suicide prevention.Yogesan, D. S., Onie, S., <br/>
-  **de Belen, R. A.**, Beavan, G., Sowmya, A., & Larsen, M. <br/>
+- Evaluating a human detection model in a behaviour analysis pipeline for suicide prevention.  <br/>
+  Yogesan, D. S., Onie, S., **de Belen, R. A.**, Beavan, G., Sowmya, A., & Larsen, M. <br/>
   In 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) <br/>
 - Eye-tracking correlates of response to joint attention in preschool children with autism spectrum disorder. <br/>
   **de Belen, R. A.**, Pincham, H., Hodge, A., Silove, N., Sowmya, A., Bednarz, T., & Eapen, V. <br/>
