@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <p align='justify'>I work at the intersection of machine learning, computer vision and medical research. I strive to develop technical innovations and produce clinical contributions. As a result, my research is published in machine learning and computer vision conferences, as well as medical journals. You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</p>
+  <p align='justify'>My research papers are presented mostly in machine learning and computer vision conferences. Recently, I have been working at the intersection of machine learning, computer vision and medical research. I strive to develop technical innovations and produce clinical contributions. As a result, my research is also published in medical journals. You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</p>
 {% endif %}
 
  <br/>
